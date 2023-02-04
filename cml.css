@@ -1,0 +1,51 @@
+body{
+    margin:1px;
+    padding:1px;
+}
+.contener {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+.contener>header {
+    
+    height:70px;
+    background-color: red;
+}
+
+.contener>nav {
+    height: 30px;
+    background-color: rgb(190, 188, 26);
+    margin-top: 5px;
+    margin-bottom:5px;
+}
+.heading{
+    
+    color: blue;
+}
+.contener>main>article {
+    height: 500px;
+    width: 48%;
+    margin-bottom: 5px;
+    float:left; 
+    margin-left: 1%;
+    margin-right:1%;
+    background-color: green;
+}
+.contener>main>aside-left{
+    height: 500px;
+    width: 25%;
+    float:left;
+    background-color: blueviolet;
+
+}
+.contener>main>aside-right{
+    height: 500px;
+    width: 25%;
+    float: right;
+    background-color: blueviolet;
+}
+.contener>footer {
+    height: 50px;
+    background-color: brown;
+    clear: both;
+}
