@@ -1,3 +1,3 @@
 # thiet-ke-layout
 
-domain website: 
+domain website: https://buihoangan2k4.github.io/thiet-ke-layout/
